@@ -1,0 +1,6 @@
+# Mac DS_STORE
+.DS_Store
+
+# Byte-compiled
+*.pyc
+
